@@ -31,6 +31,7 @@ public class LoginPageTeacherTest extends App {
 		System.out.print(driver);
 		driver.get(prop.getProperty("URL"));
 		log.info("URL invoked-Sheetal");
+		log.info("URL invoked-Sheetal_new");
 	}
 
 	@Test
