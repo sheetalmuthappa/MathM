@@ -1,0 +1,14 @@
+2021-08-11 22:26:43,000 INFO W.M.App [main] Driver is initiated-Sheetal
+2021-08-11 22:26:45,682 INFO W.M.App [main] URL invoked-Sheetal
+2021-08-11 22:28:52,640 INFO W.M.App [main] Driver is initiated-Sheetal
+2021-08-11 22:28:56,758 INFO W.M.App [main] URL invoked-Sheetal
+2021-08-11 22:28:57,655 INFO W.M.App [main] hi
+2021-08-11 22:40:00,109 INFO W.M.App [main] Driver is initiated-Sheetal
+2021-08-11 22:40:03,508 INFO W.M.App [main] URL invoked-Sheetal
+2021-08-11 22:40:04,692 INFO W.M.App [main] hi
+2021-08-11 22:40:33,373 INFO W.M.App [main] Driver is initiated-Sheetal
+2021-08-11 22:40:36,240 INFO W.M.App [main] URL invoked-Sheetal
+2021-08-11 22:40:37,157 INFO W.M.App [main] hi
+2021-08-11 22:43:31,645 INFO W.M.App [TestNG-tests-2] Driver is initiated-Sheetal
+2021-08-11 22:43:37,044 INFO W.M.App [TestNG-tests-2] URL invoked-Sheetal
+2021-08-11 22:43:38,578 INFO W.M.App [TestNG-tests-2] hi

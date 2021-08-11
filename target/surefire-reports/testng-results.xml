@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-08-11T22:24:48 IST" name="Suite" finished-at="2021-08-11T22:25:00 IST" duration-ms="12064">
+    <groups>
+    </groups>
+    <test started-at="2021-08-11T22:24:48 IST" name="Test" finished-at="2021-08-11T22:25:00 IST" duration-ms="12064">
+      <class name="WhiteHatJr.MathM.LoginPageTest">
+        <test-method signature="lognToParent()[pri:0, instance:WhiteHatJr.MathM.LoginPageTest@37e547da]" started-at="2021-08-11T22:24:53 IST" name="lognToParent" finished-at="2021-08-11T22:24:59 IST" duration-ms="5845" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lognToParent -->
+      </class> <!-- WhiteHatJr.MathM.LoginPageTest -->
+      <class name="WhiteHatJr.MathM.LoginPageTeacherTest">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:WhiteHatJr.MathM.LoginPageTeacherTest@38089a5a]" started-at="2021-08-11T22:24:48 IST" name="initialize" finished-at="2021-08-11T22:24:53 IST" duration-ms="5416" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="lognToParent()[pri:0, instance:WhiteHatJr.MathM.LoginPageTeacherTest@38089a5a]" started-at="2021-08-11T22:24:59 IST" name="lognToParent" finished-at="2021-08-11T22:25:00 IST" duration-ms="746" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lognToParent -->
+      </class> <!-- WhiteHatJr.MathM.LoginPageTeacherTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

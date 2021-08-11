@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="WhiteHAtJr" duration-ms="10277" started-at="2021-08-11T22:43:28 IST" finished-at="2021-08-11T22:43:38 IST">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="9854" started-at="2021-08-11T22:43:28 IST" finished-at="2021-08-11T22:43:38 IST">
+      <class name="WhiteHatJr.MathM.LoginPageTest">
+        <test-method status="PASS" signature="lognToParent()[pri:0, instance:WhiteHatJr.MathM.LoginPageTest@7a187f14]" name="lognToParent" duration-ms="9354" started-at="2021-08-11T22:43:28 IST" finished-at="2021-08-11T22:43:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lognToParent -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:WhiteHatJr.MathM.LoginPageTest@7a187f14]" name="closeBrowser" is-config="true" duration-ms="454" started-at="2021-08-11T22:43:38 IST" finished-at="2021-08-11T22:43:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- WhiteHatJr.MathM.LoginPageTest -->
+    </test> <!-- Test1 -->
+    <test name="Test2" duration-ms="10271" started-at="2021-08-11T22:43:28 IST" finished-at="2021-08-11T22:43:38 IST">
+      <class name="WhiteHatJr.MathM.LoginPageTeacherTest">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:WhiteHatJr.MathM.LoginPageTeacherTest@4cc8eb05]" name="initialize" is-config="true" duration-ms="8426" started-at="2021-08-11T22:43:28 IST" finished-at="2021-08-11T22:43:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="lognToParent()[pri:0, instance:WhiteHatJr.MathM.LoginPageTeacherTest@4cc8eb05]" name="lognToParent" duration-ms="1534" started-at="2021-08-11T22:43:37 IST" finished-at="2021-08-11T22:43:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lognToParent -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:WhiteHatJr.MathM.LoginPageTeacherTest@4cc8eb05]" name="closeBrowser" is-config="true" duration-ms="302" started-at="2021-08-11T22:43:38 IST" finished-at="2021-08-11T22:43:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- WhiteHatJr.MathM.LoginPageTeacherTest -->
+    </test> <!-- Test2 -->
+  </suite> <!-- WhiteHAtJr -->
+</testng-results>
